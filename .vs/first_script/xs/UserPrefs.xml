@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E1150570-5724-470F-B573-B3DCABB93EA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyClass.cs">
+    <Files>
+      <File FileName="first_script/Program.cs" Line="19" Column="36" />
+      <File FileName="protobuf.proto" Line="1" Column="1" />
+      <File FileName="EmptyClass.cs" Line="10" Column="2" />
+      <File FileName="EmptyClass.cs" Line="11" Column="1" />
+      <File FileName="EmptyClass.cs" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="first_script" expanded="True">
+            <Node name="Pages" expanded="True" selected="True" />
+            <Node name="Tests" expanded="True" />
+            <Node name="first_script" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.first__script PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../first_script/Program.cs" line="3" column="6" endLine="3" endColumn="21" offsetX="-1" offsetY="-1" expression="OpenQA.Selenium" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/first_script.exe
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/first_script.pdb
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/WebDriver.dll
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/WebDriver.Support.dll
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/WebDriver.xml
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/bin/Debug/WebDriver.Support.xml
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/obj/Debug/first_script.csprojAssemblyReference.cache
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/obj/Debug/first_script.csproj.CoreCompileInputs.cache
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/obj/Debug/first_script.csproj.CopyComplete
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/obj/Debug/first_script.exe
+/Users/dishalikhilari/Desktop/automation/first_script/first_script/obj/Debug/first_script.pdb

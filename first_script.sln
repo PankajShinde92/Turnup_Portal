@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_script", "first_script\first_script.csproj", "{E1150570-5724-470F-B573-B3DCABB93EA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{BC922B8E-EA9D-4CEC-9A21-11DEF0930671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pages", "Pages", "{88D264A2-D26B-4D42-8175-F26B03E1B7F6}"
+	ProjectSection(SolutionItems) = preProject
+		Homepage.cs = Homepage.cs
+		TMpage.cs = TMpage.cs
+		LoginPage.cs = LoginPage.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{40614AA3-D21D-4130-9087-87D7476BACB6}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1150570-5724-470F-B573-B3DCABB93EA4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E1150570-5724-470F-B573-B3DCABB93EA4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E1150570-5724-470F-B573-B3DCABB93EA4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E1150570-5724-470F-B573-B3DCABB93EA4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
